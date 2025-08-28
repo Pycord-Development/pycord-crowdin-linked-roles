@@ -36,11 +36,11 @@
         }
     ],
     "dependencies": {
-        "hono": "4.6.5",
+        "hono": "4.9.4",
         "jose": "6.1.0",
         "wrangler": "4.33.0"
     },
     "devDependencies": {
-        "@cloudflare/workers-types": "4.20240806.0"
+        "@cloudflare/workers-types": "4.20250828.0"
     }
 }
