@@ -37,10 +37,10 @@
     ],
     "dependencies": {
         "hono": "4.12.27",
-        "jose": "6.1.0",
-        "wrangler": "4.59.1"
+        "jose": "6.2.12",
+        "wrangler": "4.129.0"
     },
     "devDependencies": {
-        "@cloudflare/workers-types": "5.20260727.1"
+        "@cloudflare/workers-types": "5.20260906.1"
     }
 }
